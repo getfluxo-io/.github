@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discussões da getfluxo.io
+    url: https://github.com/orgs/getfluxo-io/discussions
+    about: Proponha ideias, faça perguntas e participe em RFCs.
+  - name: Reportar uma vulnerabilidade
+    url: https://github.com/getfluxo-io/gettalk/blob/main/SECURITY.md
+    about: Use o canal privado definido na política; não publique vulnerabilidades.
+  - name: Governança e contribuições
+    url: https://github.com/getfluxo-io/gettalk
+    about: Consulte políticas, conduta, suporte e processo de decisão.

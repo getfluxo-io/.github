@@ -57,6 +57,15 @@ Our product direction starts with the realities of the Mozambican financial ecos
 
 Fluxo is under active development. The configurable financial engine, asynchronous worker runtime and local deployment infrastructure form the current foundation. Institution dashboards, payment adapters, customer channels, documents and intelligence services will build on these contracts.
 
+## Governance and Community
+
+The public [`gettalk`](https://github.com/getfluxo-io/gettalk) repository is the governance hub for organisation-wide policies, RFCs, security, contributions, conduct and technical discussions.
+
+- [Join the Discussions](https://github.com/orgs/getfluxo-io/discussions)
+- [Read the governance model](https://github.com/getfluxo-io/gettalk/blob/main/GOVERNANCE.md)
+- [Contribute](https://github.com/getfluxo-io/gettalk/blob/main/CONTRIBUTING.md)
+- [Report security issues privately](https://github.com/getfluxo-io/gettalk/blob/main/SECURITY.md)
+
 ## Contact
 
 - Website: [getfluxo.io](https://getfluxo.io)
