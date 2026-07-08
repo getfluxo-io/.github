@@ -2,7 +2,7 @@
 
 This repository maintains the public GitHub organisation profile and community-health defaults for MAVULA.
 
-The rendered profile is defined in [`profile/README.md`](profile/README.md). Organisation-wide governance is maintained in [`gettalk`](https://github.com/getfluxo-io/gettalk); this repository distributes the defaults recognised by GitHub.
+The rendered profile is defined in [`profile/README.md`](profile/README.md). Organisation-wide governance is maintained in [`governance`](https://github.com/getfluxo-io/governance); this repository distributes the defaults recognised by GitHub.
 
 Product positioning must use **Banking as a Service (BaaS)** and remain focused on the Mozambican financial ecosystem.
 

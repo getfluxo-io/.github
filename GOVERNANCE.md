@@ -23,8 +23,7 @@ Technical repositories use professional module names:
 - `settlements`
 - `operations`
 
-The public governance hub remains `gettalk` until the repository rename is
-completed.
+The public governance hub is `governance`.
 
 ## Required Review
 

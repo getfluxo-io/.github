@@ -8,4 +8,4 @@
 
 Não publique informação de clientes, contas, transações, ambientes ou credenciais.
 
-Consulte a [política de suporte canónica](https://github.com/getfluxo-io/gettalk/blob/main/SUPPORT.md).
+Consulte a [política de suporte canónica](https://github.com/getfluxo-io/governance/blob/main/SUPPORT.md).
