@@ -6,4 +6,4 @@ Envie detalhes de forma privada para `security@mavula.io`, incluindo componente,
 
 Não execute testes destrutivos, negação de serviço, engenharia social ou acesso a dados sem autorização.
 
-Consulte a [política de segurança canónica](https://github.com/getfluxo-io/governance/blob/main/SECURITY.md) para âmbito e processo de divulgação responsável.
+Consulte a [política de segurança canónica](https://github.com/mavulahq/governance/blob/main/SECURITY.md) para âmbito e processo de divulgação responsável.

@@ -46,6 +46,6 @@ cross-module changes and maintainer review for all code changes.
 
 - Website: [mavula.io](https://mavula.io)
 - Developers: [mavula.dev](https://mavula.dev)
-- Discussions: [GitHub Discussions](https://github.com/orgs/getfluxo-io/discussions)
+- Discussions: [GitHub Discussions](https://github.com/orgs/mavulahq/discussions)
 - Security: security@mavula.io
 - Legal: legal@mavula.io
