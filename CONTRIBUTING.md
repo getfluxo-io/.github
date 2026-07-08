@@ -1,12 +1,19 @@
-# Contribuir para a getfluxo.io
+# Contributing to MAVULA
 
-As propostas e políticas de contribuição da organização são governadas pelo repositório público [`gettalk`](https://github.com/getfluxo-io/gettalk).
+MAVULA accepts contributions through pull requests.
 
-Antes de contribuir:
+Before contributing:
 
-1. Leia o [guia canónico de contribuições](https://github.com/getfluxo-io/gettalk/blob/main/CONTRIBUTING.md).
-2. Pesquise ou abra uma [Discussion da organização](https://github.com/orgs/getfluxo-io/discussions).
-3. Não publique dados pessoais, credenciais, vulnerabilidades ou informação institucional confidencial.
-4. Para mudanças transversais, siga o [processo de RFC](https://github.com/getfluxo-io/gettalk/blob/main/docs/RFC_PROCESS.md).
+1. Search or open a GitHub Discussion for non-trivial work.
+2. Keep each pull request focused.
+3. Add or update tests when behavior changes.
+4. Do not commit secrets, credentials, customer data or confidential
+   institutional information.
+5. Follow the target repository license.
 
-O software é proprietário. Contribuições de código exigem autorização prévia e acordo escrito aplicável.
+Core runtime repositories use AGPL-3.0-only. Operations tooling may use
+Apache-2.0. Some enterprise modules, managed services, brand assets and
+commercial integrations may remain separately licensed.
+
+MAVULA may require Contributor License Agreement confirmation before merging
+non-trivial contributions.

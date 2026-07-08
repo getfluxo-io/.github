@@ -1,12 +1,36 @@
-# Governança
+# MAVULA Governance
 
-O [`gettalk`](https://github.com/getfluxo-io/gettalk) é a fonte canónica de governança, RFCs e decisões transversais da getfluxo.io.
+MAVULA uses owner-led open governance.
 
-A organização usa um modelo owner-led com RFCs. `EstandarMustaq`, fundador, principal autor e arquiteto, mantém a decisão final após consulta pública proporcional ao impacto.
+EstandarMustaq, founder, principal author and architect, keeps final decision
+authority after consultation proportional to the impact of the change.
 
-Consulte:
+## Working Model
 
-- [Governança completa](https://github.com/getfluxo-io/gettalk/blob/main/GOVERNANCE.md)
-- [Filosofia](https://github.com/getfluxo-io/gettalk/blob/main/PHILOSOPHY.md)
-- [Processo de RFC](https://github.com/getfluxo-io/gettalk/blob/main/docs/RFC_PROCESS.md)
-- [Discussions](https://github.com/orgs/getfluxo-io/discussions)
+- Public contributions happen through pull requests.
+- Cross-module or architectural changes require an RFC or linked Discussion.
+- Maintainers decide roadmap, release eligibility, security handling and final
+  acceptance.
+- Brand, trademark and commercial licensing decisions remain reserved.
+
+## Repositories
+
+Technical repositories use professional module names:
+
+- `finance-platform`
+- `ledger-core`
+- `workbench`
+- `settlements`
+- `operations`
+
+The public governance hub is `governance`.
+
+## Required Review
+
+Maintainer review is required for:
+
+- financial state or ledger behavior;
+- public contracts and domain events;
+- payment, settlement or reconciliation behavior;
+- infrastructure, secrets, deployment or monitoring changes;
+- license, trademark, governance or contribution policy changes.
