@@ -2,9 +2,9 @@
 
 - Perguntas públicas: [Q&A](https://github.com/orgs/getfluxo-io/discussions/categories/q-a)
 - Conversas gerais: [General](https://github.com/orgs/getfluxo-io/discussions/categories/general)
-- Suporte institucional: `support@getfluxo.io`
-- Vulnerabilidades: `security@getfluxo.io`
-- Conduta, legal e privacidade: `legal@getfluxo.io`
+- Suporte institucional: `support@mavula.io`
+- Vulnerabilidades: `security@mavula.io`
+- Conduta, legal e privacidade: `legal@mavula.io`
 
 Não publique informação de clientes, contas, transações, ambientes ou credenciais.
 

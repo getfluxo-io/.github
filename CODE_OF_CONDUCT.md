@@ -6,6 +6,6 @@ Assédio, discriminação, ataques pessoais, exposição de informação privada
 
 A política completa, processo de moderação e canais de reporte estão no [Código de Conduta canónico](https://github.com/getfluxo-io/gettalk/blob/main/CODE_OF_CONDUCT.md).
 
-Reporte confidencial de conduta: `legal@getfluxo.io`.
+Reporte confidencial de conduta: `legal@mavula.io`.
 
-Reporte de segurança: `security@getfluxo.io`.
+Reporte de segurança: `security@mavula.io`.
