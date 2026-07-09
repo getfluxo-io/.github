@@ -1,0 +1,28 @@
+name: MAVULA Guardian
+
+on:
+  pull_request: {}
+  push:
+    branches:
+      - main
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+concurrency:
+  group: org-profile-guardian-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  guardian:
+    name: guardian
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Use Node.js 22.22.3
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22.22.3
+      - name: Run guardian
+        run: node scripts/guardian.mjs
