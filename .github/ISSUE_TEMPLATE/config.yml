@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Discussões da getfluxo.io
-    url: https://github.com/orgs/getfluxo-io/discussions
-    about: Proponha ideias, faça perguntas e participe em RFCs.
-  - name: Reportar uma vulnerabilidade
-    url: https://github.com/getfluxo-io/gettalk/blob/main/SECURITY.md
-    about: Use o canal privado definido na política; não publique vulnerabilidades.
-  - name: Governança e contribuições
-    url: https://github.com/getfluxo-io/gettalk
-    about: Consulte políticas, conduta, suporte e processo de decisão.
+  - name: MAVULA Discussions
+    url: https://github.com/orgs/mavulahq/discussions
+    about: Propose ideas, ask questions and participate in RFCs.
+  - name: Report a vulnerability
+    url: https://github.com/mavulahq/governance/blob/main/SECURITY.md
+    about: Use the private channel defined in the policy; do not publish vulnerabilities.
+  - name: Governance and contributions
+    url: https://github.com/mavulahq/governance
+    about: Read policy, conduct, support and decision process documents.
